@@ -1,0 +1,7 @@
+name,age,signup_date,city
+Alice,30.0,2024-01-15,New York
+Bob,32.5,2024-01-20,Los Angeles
+Charlie,25.0,2024-02-15,Chicago
+David,40.0,,Houston
+Eve,32.5,,Boston
+Frank,35.0,2024-03-01,Boston

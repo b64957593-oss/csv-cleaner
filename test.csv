@@ -1,0 +1,10 @@
+ name , age , signup_date , city
+ Alice ,30,2024-01-15, New York
+Bob,,01/20/2024,Los Angeles
+ Charlie , 25 , 15 Feb 2024 , Chicago
+Alice,30,2024-01-15,New York
+Bob,,01/20/2024,Los Angeles
+,,, 
+David,40,not-a-date,Houston
+Eve,,, 
+Frank,35,2024/03/01,Boston
